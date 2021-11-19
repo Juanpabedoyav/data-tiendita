@@ -48,8 +48,9 @@
             "nombre": "Manzana",
             "precio": 10,
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Manzana_Golden_tbul4f.png"
-        } ,
-        {  
+        }
+        ] ,
+        
         "populares": [
             {
                 "id": 0,
@@ -105,13 +106,11 @@
                 "precio": 58.9,
                 "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Pan_Bimbo_k3sskp.png"
             }
-         
-          
-            
+                  
     ]
 }
-    ]
+    
 
     
 
-}
+
