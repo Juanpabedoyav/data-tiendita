@@ -1,0 +1,103 @@
+{
+
+
+    "productos": [
+        {
+            "id": 0,
+            "nombre": "Coca Cola sin azucar",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329116/workshop/Cocacola-sin-azucar_e32vrs.png"
+        },
+        {
+            "id": 1,
+            "nombre": "Coca Cola",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329116/workshop/Cocacola_iuiaqb.png"
+        },
+        {
+            "id": 2 ,
+            "nombre": "Limon",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Limon_n0hdap.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329116/workshop/Aguacate_w2xusm.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Huevos_dqoem9.png"
+        },
+        {
+            "id": 5,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Fabuloso_zi0ajk.png"
+        },
+        {
+            "id": 6,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Mc_Cormick_Mayonesa_totuk0.png"
+        },
+        {
+            "id": 7,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Tomate_verde_fdmrum.png "
+        },
+        {
+            "id": 8,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329114/workshop/Pechuga_de_pavo_kk2c6x.png"
+        },
+        {
+            "id": 9,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalmole_q8ujfr.png   "
+        },
+        {
+            "id": 10,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Jitomate_Bola_cyozzk.png"
+        },
+        {
+            "id": 11,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329114/workshop/Tomate_mmip4c.png"
+        },
+        {
+            "id": 12,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Pan_Bimbo_k3sskp.png"
+        },
+        {
+            "id": 13,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329114/workshop/Naranja_rxu5gj.png"
+        },
+        {
+            "id": 14,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalmole_q8ujfr.png   "
+        },
+        {
+            "id": 15,
+            "nombre": "Tamal Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329114/workshop/Nopal_wmzzav.png"
+        }
+]
+
+}
