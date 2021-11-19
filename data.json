@@ -51,7 +51,8 @@
         }
         ] ,
         
-        "populares": [
+        
+    "populares": [
             {
                 "id": 0,
                 "nombre": "Coca Cola sin azucar",
