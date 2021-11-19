@@ -48,67 +48,70 @@
             "nombre": "Manzana",
             "precio": 10,
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Manzana_Golden_tbul4f.png"
-        }
-    ],
+        } ,
+        {  
+        "populares": [
+            {
+                "id": 0,
+                "nombre": "Coca Cola sin azucar",
+                "precio": 26,
+                "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329116/workshop/Cocacola-sin-azucar_e32vrs.png"
+            },
+            {
+                "id": 1,
+                "nombre": "Coca Cola",
+                "precio": 4500,
+                "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329116/workshop/Cocacola_iuiaqb.png"
+            },
+           
+           
+           
+            {
+                "id": 2,
+                "nombre": "Huevos",
+                "precio": 37.5,
+                "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Huevos_dqoem9.png"
+            },
+            {
+                "id": 3,
+                "nombre": "Fabuloso",
+                "precio": 2500,
+                "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Fabuloso_zi0ajk.png"
+            },
+            {
+                "id": 6,
+                "nombre": "Mayonesa",
+                "precio": 48.5,
+                "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Mc_Cormick_Mayonesa_totuk0.png"
+            },
+            
+            {
+                "id": 4,
+                "nombre": "Pechuga de Pavo",
+                "precio": 62,
+                "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329114/workshop/Pechuga_de_pavo_kk2c6x.png"
+            },
+            {
+                "id": 5,
+                "nombre": "Colgate",
+                "precio": 1000,
+                "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329116/workshop/Colgate_lezgan.png"
+            },
+           
+        
+            {
+                "id": 6,
+                "nombre": "Pan Bimbo",
+                "precio": 58.9,
+                "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Pan_Bimbo_k3sskp.png"
+            }
+         
+          
+            
+    ]
+}
+    ]
 
-    "populares": [
-        {
-            "id": 0,
-            "nombre": "Coca Cola sin azucar",
-            "precio": 26,
-            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329116/workshop/Cocacola-sin-azucar_e32vrs.png"
-        },
-        {
-            "id": 1,
-            "nombre": "Coca Cola",
-            "precio": 4500,
-            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329116/workshop/Cocacola_iuiaqb.png"
-        },
-       
-       
-       
-        {
-            "id": 2,
-            "nombre": "Huevos",
-            "precio": 37.5,
-            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Huevos_dqoem9.png"
-        },
-        {
-            "id": 3,
-            "nombre": "Fabuloso",
-            "precio": 2500,
-            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Fabuloso_zi0ajk.png"
-        },
-        {
-            "id": 6,
-            "nombre": "Mayonesa",
-            "precio": 48.5,
-            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Mc_Cormick_Mayonesa_totuk0.png"
-        },
-        
-        {
-            "id": 4,
-            "nombre": "Pechuga de Pavo",
-            "precio": 62,
-            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329114/workshop/Pechuga_de_pavo_kk2c6x.png"
-        },
-        {
-            "id": 5,
-            "nombre": "Colgate",
-            "precio": 1000,
-            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329116/workshop/Colgate_lezgan.png"
-        },
-       
     
-        {
-            "id": 6,
-            "nombre": "Pan Bimbo",
-            "precio": 58.9,
-            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1637329115/workshop/Pan_Bimbo_k3sskp.png"
-        }
-     
-      
-        
-]
 
 }
